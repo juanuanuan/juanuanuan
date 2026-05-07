@@ -1,4 +1,6 @@
-## Hi there, I'm João Pontes
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanuanuan.juanuanuan" />
+
+## Hi there, I'm João Pontes    
 
 I'm a **Computer Science student** at the **University of Minho** (UMinho). I'm currently building my foundations in programming and exploring different paradigms and technologies.
 
