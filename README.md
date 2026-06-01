@@ -11,9 +11,25 @@ I'm a **Computer Science student** at the **University of Minho** (UMinho). I'm 
 
 - 
 
+## 1º Ano
+## LA1
+- [Projeto](https://github.com/juanuanuan/POO/LPI/tree/main)
+
+## LP1
+- [Projeto](https://github.com/juanuanuan/POO/LA1PL1G10/tree/main)
+
+
+## 2º Ano
 ## POO
 
 - [Projeto POO](https://github.com/juanuanuan/POO/tree/main/ProjetoPOO)
 - [Aulas](https://github.com/juanuanuan/POO/tree/main/Aulas)
 - [Conteúdo](https://github.com/juanuanuan/POO/tree/main/Conteúdo)
 - [Testing](https://github.com/juanuanuan/POO/tree/main/Testing)
+
+## SO
+- [Aulas](https://github.com/juanuanuan/POO/tree/main)
+- [Projeto]
+
+## BD
+- [Relatório] 
