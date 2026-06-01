@@ -15,11 +15,11 @@ I'm a **Computer Science student** at the **University of Minho** (UMinho). I'm 
 
 ## 1º Ano
 
-### LA1
-- [Projeto](https://github.com/juanuanuan/LAI/tree/main)
-
 ### LP1
-- [Projeto](https://github.com/juanuanuan/LP1PL1G10/tree/main)
+- [Projeto](https://github.com/juanuanuan/LPI/tree/main)
+
+### LA1
+- [Projeto](https://github.com/juanuanuan/LA1PL1G10/tree/main)
 
 ---
 
