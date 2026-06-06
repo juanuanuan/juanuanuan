@@ -33,5 +33,5 @@ I'm a **Computer Science student** at the **University of Minho** (UMinho). I'm 
 
 ### SO
 - [Aulas](https://github.com/juanuanuan/SO/tree/main)
-
+- [Projeto](https://github.com/juanuanuan/SO/tree/main/Projeto)
 ---
