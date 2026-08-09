@@ -1,36 +1,43 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanuanuan.juanuanuan" />
+# João Pontes
 
-## Hi there, I'm João Pontes    
+Computer Science student at the University of Minho (UMinho).
 
-I'm a **Computer Science student** at the **University of Minho** (UMinho).
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juanuanuan&layout=compact&langs_count=8&theme=github_dark&border_color=0D1117" />
-</div>
-
-- 
+Background in Haskell, C, and Java, with coursework spanning algorithms and complexity, object-oriented programming, operating systems, and database systems.
 
 ---
 
-## 1º Ano
+## Coursework & Projects
 
-### LP1 (Programming Labs 1)
-- [Projeto](https://github.com/juanuanuan/LPI/tree/main)
+### Year 1
 
-### LA1 (Algorithmic Labs 1)
-- [Projeto](https://github.com/juanuanuan/LA1PL1G10/tree/main)
+**Programming Labs 1 (LP1)**
+[Repository](https://github.com/juanuanuan/LPI/tree/main)
 
----
+**Algorithmic Labs 1 (LA1)**
+[Repository](https://github.com/juanuanuan/LA1PL1G10/tree/main)
 
-## 2º Ano
+### Year 2
 
-### POO (Object Oriented Programming)
-- [Projeto POO](https://github.com/juanuanuan/POO/tree/main/ProjetoPOO)
-- [Aulas](https://github.com/juanuanuan/POO/tree/main/Aulas)
-- [Conteúdo](https://github.com/juanuanuan/POO/tree/main/Conteúdo)
+**Object-Oriented Programming (POO)**
+Home automation system modeled in Java, with a device/room/house class hierarchy.
+- [Project](https://github.com/juanuanuan/POO/tree/main/ProjetoPOO)
+- [Coursework](https://github.com/juanuanuan/POO/tree/main/Aulas)
+- [Notes](https://github.com/juanuanuan/POO/tree/main/Conteúdo)
 - [Testing](https://github.com/juanuanuan/POO/tree/main/Testing)
 
-### SO (Operating Systems)
-- [Aulas](https://github.com/juanuanuan/SO/tree/main)
-- [Projeto](https://github.com/juanuanuan/SO/tree/main/Projeto)
+**Operating Systems (SO)**
+Runner/Controller system using named FIFOs and FCFS scheduling for pipeline and parallel command execution.
+- [Coursework](https://github.com/juanuanuan/SO/tree/main)
+- [Project](https://github.com/juanuanuan/SO/tree/main/Projeto)
+
 ---
+
+## Personal Projects
+
+**FVGA — Formal Verification of Graph Algorithms**
+Application of Hoare Logic to graph algorithms, verified for full correctness in Dafny.
+- [Repository](https://github.com/juanuanuan/FVGA)
+
+---
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanuanuan.juanuanuan" />
