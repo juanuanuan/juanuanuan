@@ -2,8 +2,6 @@
 
 Computer Science student at the University of Minho (UMinho).
 
-Background in Haskell, C, and Java, with coursework spanning algorithms and complexity, object-oriented programming, operating systems, and database systems.
-
 ---
 
 ## Coursework & Projects
