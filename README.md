@@ -47,8 +47,8 @@ Logical and Constraint Programing in Python
 
 Defining grammars and using lexical and syntactic analysis to turn source text into a structure that can be interpreted, translated, or compiled into code.
 
--[Coursework](https://github.com/juanuanuan/PLC/tree/main/Aulas)
--[Project](https://github.com/juanuanuan/PLC/tree/main/Projeto)
+- [Coursework](https://github.com/juanuanuan/PLC/tree/main/Aulas)
+- [Project](https://github.com/juanuanuan/PLC/tree/main/Projeto)
 
 ---
 
