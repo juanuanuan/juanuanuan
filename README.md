@@ -38,12 +38,12 @@ Runner/Controller system using named FIFOs and FCFS scheduling for pipeline and 
 
 ### Year 3
 
-**Computational Logic**
+**Computational Logic(LC)**
 
 Logical and Constraint Programing in Python 
 - [Coursework](https://github.com/juanuanuan/LC/tree/main/TP)
 
-**Compiler and Language Processing**
+**Compiler and Language Processing(PLC)**
 
 Defining grammars and using lexical and syntactic analysis to turn source text into a structure that can be interpreted, translated, or compiled into code.
 
