@@ -34,6 +34,23 @@ Runner/Controller system using named FIFOs and FCFS scheduling for pipeline and 
 
 ---
 
+### Year 3
+
+**Computational Logic**
+
+Logical and Constraint Programing in Python 
+- [Coursework](https://github.com/juanuanuan/LC/tree/main/TP)
+
+**Compiler and Language Processing**
+
+Defining grammars and using lexical and syntactic analysis to turn source text into a structure that can be interpreted, translated, or compiled into code.
+-[Coursework](https://github.com/juanuanuan/PLC/tree/main/Aulas)
+-[Project](https://github.com/juanuanuan/PLC/tree/main/Projeto)
+
+---
+
+
+
 ## Personal Projects
 
 **FVGA — Formal Verification of Graph Algorithms**
