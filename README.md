@@ -16,6 +16,8 @@ Computer Science student at the University of Minho (UMinho).
 
 [Repository](https://github.com/juanuanuan/LA1PL1G10/tree/main)
 
+---
+
 ### Year 2
 
 **Object-Oriented Programming (POO)**
@@ -44,6 +46,7 @@ Logical and Constraint Programing in Python
 **Compiler and Language Processing**
 
 Defining grammars and using lexical and syntactic analysis to turn source text into a structure that can be interpreted, translated, or compiled into code.
+
 -[Coursework](https://github.com/juanuanuan/PLC/tree/main/Aulas)
 -[Project](https://github.com/juanuanuan/PLC/tree/main/Projeto)
 
