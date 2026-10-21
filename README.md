@@ -63,4 +63,6 @@ Application of Hoare Logic to graph algorithms, verified for full correctness in
 
 ---
 
+![João Pontes Stats](https://github-readme-stats.vercel.app/api?username=juanuanuan&show_icons=true&theme=dark&hide=stars,prs)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanuanuan.juanuanuan" />
