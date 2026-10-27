@@ -12,7 +12,7 @@ Computer Science student at the University of Minho (UMinho).
 
 [Repository](https://github.com/juanuanuan/LPI/tree/main)
 
-**Algorithmic Labs 1 (LA1)**
+**Algorithmic Labs 1 (LA2)**
 
 [Repository](https://github.com/juanuanuan/LA1PL1G10/tree/main)
 
