@@ -63,8 +63,8 @@ Application of Hoare Logic to graph algorithms, verified for full correctness in
 
 ---
 <a href="https://github.com/juanuanuan">
-  <img align="top" height="170" src="https://github-readme-stats.vercel.app/api?username=juanuanuan&show_icons=true&theme=dark&hide=stars,prs" />
-  <img align="top" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanuanuan&layout=compact&theme=dark&langs_count=5" />
+  <img align="top" height="170" src="https://streak-stats.demolab.com/?user=juanuanuan&theme=dark&hide_border=true" />
+  <img align="top" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanuanuan&layout=compact&theme=dark&langs_count=5" />
 </a>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=juanuanuan.juanuanuan" />
+<img align="right" src="https://komarev.com/ghpvc/?username=juanuanuan&style=flat-square" />
