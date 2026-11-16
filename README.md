@@ -66,5 +66,3 @@ Application of Hoare Logic to graph algorithms, verified for full correctness in
   <img align="top" height="170" src="https://streak-stats.demolab.com/?user=juanuanuan&theme=dark&hide_border=true" />
   <img align="top" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=juanuanuan&theme=github_dark" />
 </a>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=juanuanuan&style=flat-square" />
