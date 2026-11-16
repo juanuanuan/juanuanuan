@@ -61,6 +61,11 @@ Defining grammars and using lexical and syntactic analysis to turn source text i
 Application of Hoare Logic to graph algorithms, verified for full correctness in Dafny.
 - [Repository](https://github.com/juanuanuan/FVGA)
 
+**SNIFF - Packet Sniffer**
+
+A packet sniffer written in C using libpcap. 
+- [Repository](https://github.com/juanuanuan/sniff)
+
 ---
 <a href="https://github.com/juanuanuan">
   <img align="top" height="170" src="https://streak-stats.demolab.com/?user=juanuanuan&theme=dark&hide_border=true" />
